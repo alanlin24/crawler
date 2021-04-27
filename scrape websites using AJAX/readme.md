@@ -1,3 +1,4 @@
+`Here using Medium as example`
 AJAX is a is a set of web development techniques (JavaScripts) using many web technologies on the client-side to create asynchronous web applications.
 we can simply distinguish the two by reloading the website. the first one shows everything immediately, while the latter shows a "shell" first then display other info. <br>
 Or by inspecting the website.
